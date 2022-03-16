@@ -3,7 +3,8 @@ git push
 git add
 git commit
 git status
-git push
+git pull
 git checkout
-it status
+git status
 git branch
+
